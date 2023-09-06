@@ -1,0 +1,12 @@
+
+ 1693938704928 :  ::ffff:127.0.0.1 GET : /api/users/64f6a2ac24d0c0432d9a7548
+ 1693938724622 :  ::ffff:127.0.0.1 GET : /users/64f6a2ac24d0c0432d9a7548
+ 1693938742536 :  ::ffff:127.0.0.1 GET : /users/64f6a2ac24d0c0432d9a7548
+ 1693938748600 :  ::ffff:127.0.0.1 GET : /api/users/64f6a2ac24d0c0432d9a7548
+ 1693938871420 :  ::ffff:127.0.0.1 GET : /api/users/
+ 1693938885526 :  ::ffff:127.0.0.1 POST : /api/users/
+ 1693938917276 :  ::ffff:127.0.0.1 POST : /api/users/
+ 1693938929231 :  ::ffff:127.0.0.1 GET : /api/users/64f774e55c0216a08f177fa4
+ 1693938940186 :  ::ffff:127.0.0.1 PATCH : /api/users/64f774e55c0216a08f177fa4
+ 1693938945372 :  ::ffff:127.0.0.1 GET : /api/users/64f774e55c0216a08f177fa4
+ 1693938959509 :  ::1 GET : /users
